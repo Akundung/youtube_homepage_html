@@ -1,0 +1,49 @@
+.image_1_1 {
+    width: 300px;
+    height: 300px;
+    object-fit: contain;
+    display: block;
+}
+.search_bar{
+    
+}
+.one, .two{
+display: inline-block;
+margin-bottom: 10px;
+border-width: 1.5px;
+border-style: solid;
+border-radius: 6px;
+border-color: rgb(221, 219, 219);
+width: 123px;
+padding: 6px;
+
+}
+
+.three{
+    display: block;
+    width: 265px;
+    border-width: 1.5px;
+border-style: solid;
+border-radius: 6px;
+border-color: rgb(221, 219, 219);
+padding: 6px;
+margin-bottom: 10px;
+
+
+}
+.four{
+        display: block;
+    width: 280px;
+    border-width: 1.5px;
+border-style: solid;
+border-radius: 6px;
+border-color: rgb(221, 219, 219);
+padding: 8px;
+margin-bottom: 10px;
+background-color: rgb(40, 72, 230);
+font-weight: bold;
+color: white;
+border: none;
+
+
+}
